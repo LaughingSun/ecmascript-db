@@ -19,4 +19,18 @@ Go to http://laughingsun.github.io/ecmascript-db for a nightly developer version
 
 Oh yeah, we have arrived!
 
+You may also wish to check out the following sites:
 
+http://developer.mozilla.org/
+http://developer.apple.com/
+http://docs.webplatform.org/
+http://caniuse.com/
+http://www.webbrowsercompatibility.com/
+http://compatibility.shwups-cms.ch/en/home?
+http://jscc.info/
+http://kangax.github.io/compat-table/es6/
+http://help.dottoro.com/
+https://msdn.microsoft.com/en-us/library/hh772960(VS.85).aspx
+https://msdn.microsoft.com/en-us/library/hh772384(v=vs.85).aspx
+
+* your will notice that w3schools, wikipedia and stackoverflow are NOT listed above because they suck for authoritative and tested information.  Yeah they have their place in the world and are helpful under many circumstances, but they have too many errors and misinformation, and not enough context for development reference.
