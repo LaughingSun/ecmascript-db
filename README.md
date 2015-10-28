@@ -1,4 +1,4 @@
-# ecmasscript-db
+# ecmascript-db
 ECMAScript class, method &amp; function spec lookup database project
 
 Wantering through some of the more obscure areas of http://developer.apple.com, http://developer.mozilla.org, http://docs.webplatform.org and other sites for information can be time consuming and a real headache if you cannot find what you are looking for.  
@@ -14,6 +14,8 @@ Image you could do all of the above and further filter or compare platforms and 
 Imagine no longer, but EXPERIENCE it now!
 
 This project datamines specifications and documents on the web and tests their accuaracy on all platforms it knows about: building an excellent database for spec information and implementing the ability to filter the search results.
+
+Go to http://laughingsun.github.io/ecmascript-db for a nightly developer version of the site.
 
 Oh yeah, we have arrived!
 
