@@ -15,7 +15,7 @@ Imagine no longer, but EXPERIENCE it now!
 
 This project datamines specifications and documents on the web and tests their accuaracy on all platforms it knows about: building an excellent database for spec information and implementing the ability to filter the search results.
 
-Go to http://laughingsun.github.io/ecmascript-db for a nightly developer version of the site.
+Go to http://laughingsun.github.io/ecmascript-db for a nightly developer version of the site.  A production beta site will be up soon with funding (fingers crossed.)
 
 Oh yeah, we have arrived!
 
